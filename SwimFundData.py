@@ -26,5 +26,5 @@ def parseSchool(l):
     return [school, division, scholarship]
 
 test = readDB("SwimFundingData.csv")
-print(parseSchool(test))
+print(test)
     
