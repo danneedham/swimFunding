@@ -1,13 +1,13 @@
 import csv
 
-def readDB(database):
+def readDB(database, parser):
     "Reads in csv file"
     result = []
     with open(database, 'r') as f:
         csvf = csv.reader(f)
         f.readline()
         for line in csvf:
-            result.append(parseSchool(line))
+            result.append(parser(line))
     return result
 
     #iterate through string and if char is a number (in 0-9) print string from that point on.
@@ -15,8 +15,8 @@ def readDB(database):
 
 def parseScholarship(scholarship):
     for i in range(len(scholarship)-1):
-        if 
-        return scholarship[i:]
+        if scholarship[i] in {'0','1','2','3','4','5','6','7','8','9'}:
+            return scholarship[i:]
         
             
 def parseSchool(l):
@@ -26,6 +26,6 @@ def parseSchool(l):
     division = l[3][:4] + ' ' + l[3][6:8]
     return [school, division, parseScholarship(l[6])]
 
-print(readDB("SwimFundingData.csv"))
+print(readDB("SwimFundingData.csv", parseSchool))
 
     
