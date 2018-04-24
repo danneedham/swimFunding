@@ -26,7 +26,16 @@ def parseSchool(l):
     division = l[3][:4] + ' ' + l[3][6:8]
     return [school, division, parseScholarship(l[6])]
 
-test = readDB("SwimFundingData.csv", parseSchool)
+def parseTopTimes(l):
+    """
+Example output by USA Swimming database:
+
+ ['="Princeton Swimming \'Big Al\' Op"', '="3:53.19"', '="12/2/2017"', '="400 Individual Medley SCY Male"', '="BROW"', '="Brown"', 'Sullivan, Coley', '="M"', '="11/24/1997"', '="22"', '="1/1/1900 12:03:53 AM"', '=""', '=""', '="SO"', '="B"', '="98"', '="400 Yards Individual Medley Male SCY"', '="0"', '="Princeton"', '=""', '="N']
+    """
+    
+    return l
+
+test = readDB("TopTimes18.csv", parseTopTimes)
 print(test)
 
     
