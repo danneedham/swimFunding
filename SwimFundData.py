@@ -22,10 +22,11 @@ def parseScholarship(scholarship):
 def parseSchool(l):
     """Takes the list printed out for each school and returns a list with the variables we care about.
     """
-    school = l[0]
+    school = l[0].strip('\xca')
     division = l[3][:4] + ' ' + l[3][6:8]
     return [school, division, parseScholarship(l[6])]
 
-print(readDB("SwimFundingData.csv", parseSchool))
+test = readDB("SwimFundingData.csv", parseSchool)
+print(test)
 
     
