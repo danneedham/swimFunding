@@ -10,21 +10,22 @@ def readDB(database):
             result.append(parseSchool(line))
     return result
 
+    #iterate through string and if char is a number (in 0-9) print string from that point on.
 
 
+def parseScholarship(scholarship):
+    for i in range(len(scholarship)-1):
+        if 
+        return scholarship[i:]
+        
+            
 def parseSchool(l):
     """Takes the list printed out for each school and returns a list with the variables we care about.
     """
     school = l[0]
     division = l[3][:4] + ' ' + l[3][6:8]
-    scholarship = l[6]
-    for i in range(len(scholarship)-1):
-        #if scholarship[i] == "\xca":
-        #    scholarship = scholarship[:i+1]
-        print(scholarship[i])
+    return [school, division, parseScholarship(l[6])]
 
-    return [school, division, scholarship]
+print(readDB("SwimFundingData.csv"))
 
-test = readDB("SwimFundingData.csv")
-print(test)
     
