@@ -1,6 +1,16 @@
 from bs4 import BeautifulSoup
 import csv
 
+import requests
+url = raw_input("https://www.collegeswimming.com/recruiting/rankings/2018/F/")
+r = requests.get(url)
+data = r.text
+soup = BeautifulSoup(data)
+for link in soup.find_all('a'):
+    print(link.get('href'))
+
+print(soup)
+
 def readDB(database, parser):
     "Reads in csv file"
     result = []
@@ -37,6 +47,6 @@ Example output by USA Swimming database:
     return l
 
 test = readDB("TopTimes18.csv", parseTopTimes)
-print(test)
+#print(test)
 
     
