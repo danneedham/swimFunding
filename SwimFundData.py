@@ -1,13 +1,15 @@
 from bs4 import BeautifulSoup
 import csv
 
-import requests
-url = raw_input("https://www.collegeswimming.com/recruiting/rankings/2018/F/")
-r = requests.get(url)
-data = r.text
-soup = BeautifulSoup(data)
-for link in soup.find_all('a'):
-    print(link.get('href'))
+import urllib
+r = urllib.urlopen("https://www.collegeswimming.com/recruiting/rankings/2018/F/")
+soup = BeautifulSoup(r)
+#print soup.prettify()
+letters = soup.find_all("div", class_="ec_statements")
+
+
+#for link in soup.find_all('a'):
+#    print(link.get('href'))
 
 print(soup)
 
