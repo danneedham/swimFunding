@@ -1,338 +1,339 @@
-University of Florida,4.781304347826088
-Arizona State University,9.475
-Stanford University,3.371111111111111
-University of Texas,4.492777777777778
-University of Southern California,6.599230769230768
-University of Pittsburgh,13.385909090909088
-North Carolina State University,4.231428571428571
-University of Virginia,7.559047619047618
-Texas A&M University,5.563750000000001
-University of Georgia,6.7606666666666655
-Harvard University,8.81722222222222
-University of California-Berkeley,4.425
-University of Louisville,5.986470588235294
-University of Missouri,3.771333333333333
-Auburn University,6.576666666666666
-University of Kentucky,7.178750000000001
-Ohio State University,10.194117647058825
-University of Michigan,7.3705
-University of Notre Dame,5.55875
-Florida State University,9.250714285714285
-Indiana University-Bloomington,9.030370370370369
-Virginia Polytechnic Institute (Virginia Tech),7.555499999999999
-University of Minnesota,11.939999999999998
-University of Alabama,9.644400000000001
-University of Wisconsin-Madison,9.613157894736842
-University of Utah,12.308076923076925
-Queens University of Charlotte,19.576
-University of Tennessee,9.714782608695652
-University of Arizona,9.829473684210527
-Northwestern University,7.675833333333334
-Yale University,7.662941176470589
-East Carolina University,12.295
-U.S. Naval Academy (Navy),11.375405405405408
-University of California-Santa Barbara,10.262941176470587
-"University of North Carolina, Chapel Hill",7.70764705882353
-University of California-San Diego,14.227142857142859
-University of South Carolina,10.746363636363636
-Cornell University,11.056956521739131
-Drexel University,16.39470588235294
-Princeton University,9.065384615384612
-Duke University,8.247777777777777
-University of Pennsylvania,8.2728
-U.S. Military Academy (Army),12.941333333333334
-California Baptist University,18.487333333333332
-Louisiana State University,9.85
-University of Denver,14.057692307692305
-Brown University,9.910500000000003
-U.S. Air Force Academy,13.226571428571429
-Pennsylvania State University,11.997272727272728
-University of Cincinnati,11.395555555555555
-West Virginia University,12.984
-Georgia Institute of Technology,9.318260869565217
-Southern Methodist University,14.72888888888889
-University of Wyoming,12.593333333333334
-Brigham Young University,14.605000000000002
-College of William and Mary,13.557619047619049
-Oakland University,15.4375
-University of Connecticut,16.48083333333333
-Columbia University,10.592857142857143
-Indiana University-Purdue University at Indianapolis,20.65
-Purdue University,10.792
-George Washington University,16.404999999999998
-University of Iowa,11.151176470588235
-Grand Valley State University,21.172105263157892
-Georgetown University,13.610000000000001
-Washington University (Missouri),17.95103448275862
-Kenyon College,16.873076923076923
-Towson University,20.30333333333333
-"University of Nevada, Las Vegas (UNLV)",12.769166666666669
-Fordham University,21.984705882352944
+University of Florida,4.06
+Arizona State University,10.015
+Stanford University,2.65
+University of Texas,2.715
+University of Southern California,3.98
+University of Pittsburgh,14.59
+North Carolina State University,3.535
+University of Virginia,7.51
+Texas A&M University,3.955
+University of Georgia,6.82
+Harvard University,6.085
+University of California-Berkeley,4.0600000000000005
+University of Louisville,4.71
+University of Missouri,3.35
+Auburn University,5.74
+University of Kentucky,6.085
+Ohio State University,10.3
+University of Michigan,6.27
+University of Notre Dame,3.645
+Florida State University,8.95
+Indiana University-Bloomington,8.08
+Virginia Polytechnic Institute (Virginia Tech),6.57
+University of Minnesota,10.465
+University of Alabama,8.98
+University of Wisconsin-Madison,8.36
+University of Utah,10.895
+Queens University of Charlotte,18.310000000000002
+University of Tennessee,9.85
+University of Arizona,9.08
+Northwestern University,7.9350000000000005
+Yale University,7.73
+East Carolina University,13.325
+U.S. Naval Academy (Navy),11.89
+University of California-Santa Barbara,9.08
+"University of North Carolina, Chapel Hill",6.65
+University of California-San Diego,14.41
+University of South Carolina,10.71
+Cornell University,10.33
+Drexel University,16.02
+Princeton University,6.78
+Duke University,7.295
+University of Pennsylvania,7.89
+U.S. Military Academy (Army),13.2
+California Baptist University,17.02
+Louisiana State University,10.565
+University of Denver,14.135
+Brown University,9.629999999999999
+U.S. Air Force Academy,13.88
+Pennsylvania State University,12.715
+University of Cincinnati,11.165
+West Virginia University,12.21
+Georgia Institute of Technology,7.94
+Southern Methodist University,13.125
+University of Wyoming,10.92
+Brigham Young University,14.665
+College of William and Mary,13.77
+Oakland University,13.045
+University of Connecticut,16.794999999999998
+Columbia University,9.14
+Indiana University-Purdue University at Indianapolis,21.52
+Purdue University,11.42
+George Washington University,16.915
+University of Iowa,10.89
+Grand Valley State University,19.54
+Georgetown University,12.64
+Washington University (Missouri),17.57
+Kenyon College,15.8
+Towson University,19.93
+"University of Nevada, Las Vegas (UNLV)",12.43
+Fordham University,23.58
 Emmanuel College,17.715
-Massachusetts Institute of Technology,15.040869565217394
-La Salle University,20.145000000000003
-Grand Canyon University,16.045833333333334
-Lehigh University,18.60105263157895
-New York University,18.896060606060608
-"University of Hawaii, Manoa",18.978461538461538
-Dartmouth College,16.34111111111111
-California Polytechnic State University,15.401
-Eastern Michigan University,14.972272727272726
-Nova Southeastern University,18.143333333333334
-Seton Hall University,15.945454545454545
-Miami University (Ohio),15.36769230769231
-University of Bridgeport,20.07
-Missouri State University,12.608571428571429
-Indian River State College,19.585384615384616
-Savannah College of Art and Design,21.599999999999998
-University of Pacific (California),17.38684210526316
-Rider University,19.773333333333333
+Massachusetts Institute of Technology,13.78
+La Salle University,20.045
+Grand Canyon University,15.285
+Lehigh University,18.04
+New York University,18.27
+"University of Hawaii, Manoa",18.39
+Dartmouth College,15.565
+California Polytechnic State University,14.844999999999999
+Eastern Michigan University,13.985
+Nova Southeastern University,15.385
+Seton Hall University,15.53
+Miami University (Ohio),14.605
+University of Bridgeport,22.055
+Missouri State University,12.78
+Indian River State College,19.12
+Savannah College of Art and Design,23.64
+University of Pacific (California),17.26
+Rider University,19.375
 University of Toronto,8.66
-Gardner-Webb University,16.331052631578952
-Texas Christian University,11.99909090909091
-Simon Fraser University,20.568571428571428
-Michigan State University,14.039000000000001
+Gardner-Webb University,14.47
+Texas Christian University,11.18
+Simon Fraser University,26.76
+Michigan State University,12.495000000000001
 State University of New York at Brockport,8.15
-University of Wisconsin-Green Bay,17.498461538461537
-York College (Pennsylvania),26.694999999999997
-Denison University,19.696538461538463
-Johns Hopkins University,17.664090909090906
-Drury University,19.440454545454546
-Pomona-Pitzer Colleges,22.408000000000005
-Boston University,21.207826086956523
+University of Wisconsin-Green Bay,20.38
+York College (Pennsylvania),29.225
+Denison University,19.035
+Johns Hopkins University,17.42
+Drury University,18.15
+Pomona-Pitzer Colleges,23.0
+Boston University,20.91
 Nazareth College,18.380000000000003
-Rollins College,25.5625
-U.S. Coast Guard Academy,21.997142857142855
-Southern Illinois University,18.752
-Williams College,18.5345
-"University of North Carolina, Wilmington",15.691333333333334
-Lindenwood University,15.736
-"California State University, Bakersfield",18.47352941176471
-Amherst College,21.71
-University of British Columbia,13.56
-Whittier College,21.502499999999998
-University of Incarnate Word,19.928999999999995
-Saint Cloud State University,26.913999999999998
-University of Chicago,20.0872
-St. Bonaventure University,17.8975
-Wright State University,17.633333333333333
-Cleveland State University,18.025625
-Carnegie Mellon University,22.54555555555556
-Tufts University,22.338928571428564
-George Mason University,19.442222222222224
-Washington and Lee University,21.889999999999997
-UMBC,20.476428571428567
-Providence College,24.240666666666666
+Rollins College,26.994999999999997
+U.S. Coast Guard Academy,20.97
+Southern Illinois University,19.369999999999997
+Williams College,17.675
+"University of North Carolina, Wilmington",15.02
+Lindenwood University,12.66
+"California State University, Bakersfield",17.49
+Amherst College,20.86
+University of British Columbia,12.47
+Whittier College,22.265
+University of Incarnate Word,20.689999999999998
+Saint Cloud State University,29.13
+University of Chicago,19.75
+St. Bonaventure University,17.21
+Wright State University,17.85
+Cleveland State University,17.6
+Carnegie Mellon University,22.43
+Tufts University,22.23
+George Mason University,19.44
+Washington and Lee University,21.1
+UMBC,19.96
+Providence College,26.06
 "Missouri-Saint Louis, University of",10.74
 Tiffin University,10.79
-Davidson College,21.048636363636362
-Gettysburg College,24.227272727272727
-Missouri University of Science & Technology,17.64272727272727
-University of Wisconsin-Eau Claire,28.064999999999998
-Emory University,18.194090909090907
-Wayne State University,22.7
-University of Tampa,23.112173913043474
-Lenoir-Rhyne University,19.7225
-Bucknell University,19.855263157894736
-University of Wisconsin-Milwaukee,21.047600000000003
-Keiser University,24.224
-Western Illinois University,26.17
-Gannon University,21.34142857142857
+Davidson College,20.935000000000002
+Gettysburg College,24.68
+Missouri University of Science & Technology,16.25
+University of Wisconsin-Eau Claire,29.52
+Emory University,16.415
+Wayne State University,24.43
+University of Tampa,22.63
+Lenoir-Rhyne University,19.88
+Bucknell University,18.51
+University of Wisconsin-Milwaukee,20.83
+Keiser University,25.815
+Western Illinois University,29.085
+Gannon University,21.74
 Wilmington College (Ohio),11.91
-Florida Atlantic University,19.76714285714286
+Florida Atlantic University,19.38
 University at Buffalo,13.71
-New Jersey Institute of Technology,25.19545454545455
-Loyola University (Maryland),24.053333333333327
-Swarthmore College,26.925
-Marist College,20.276923076923076
-Eastern Illinois University,20.810000000000002
-University of Indianapolis,22.546999999999997
-Lewis University,23.41916666666667
-Boston College,21.851071428571426
-Saint Louis University,23.007142857142856
-Binghamton University,23.213846153846152
-University of South Dakota,25.80235294117647
-Howard University,22.634
-Rhodes College,23.975
-University of Delaware,22.5475
-Old Dominion University,24.261
-University of Massachusetts (Amherst),18.944117647058825
-Seattle University,22.063333333333336
+New Jersey Institute of Technology,26.4
+Loyola University (Maryland),23.7
+Swarthmore College,28.19
+Marist College,21.28
+Eastern Illinois University,21.33
+University of Indianapolis,19.08
+Lewis University,23.595
+Boston College,21.33
+Saint Louis University,23.72
+Binghamton University,22.71
+University of South Dakota,25.6
+Howard University,22.56
+Rhodes College,25.490000000000002
+University of Delaware,22.12
+Old Dominion University,25.740000000000002
+University of Massachusetts (Amherst),18.5
+Seattle University,21.91
 Olivet Nazarene University,14.11
-Chapman University,24.017142857142858
-University of Illinois at Chicago,21.02578947368421
-Gustavus Adolphus College,23.845999999999997
-Texas-Permian Basin,26.732499999999998
-Colorado Mesa University,23.66
-Northern Michigan University,23.758333333333336
-Claremont McKenna-Harvey Mudd-Scripps Colleges,22.404782608695655
-Saint Peters University,21.58857142857143
-Xavier University,17.711764705882352
-William Jewell College,26.105
-Midland University,26.60166666666667
-Oklahoma Baptist University,23.672
-Franklin & Marshall College,21.207142857142856
-Villanova University,21.080000000000002
-Albion College,25.80818181818182
-Iona College,24.431250000000002
-California Institute of Technology,25.838749999999997
-Florida Southern College,22.244444444444444
-Bryant University,23.718181818181815
-Connecticut College,23.184545454545454
-Truman State University,26.679090909090913
-University of North Dakota,25.204285714285714
-Trinity College (Connecticut),24.993333333333336
+Chapman University,23.21
+University of Illinois at Chicago,21.07
+Gustavus Adolphus College,20.96
+Texas-Permian Basin,27.2
+Colorado Mesa University,22.63
+Northern Michigan University,24.130000000000003
+Claremont McKenna-Harvey Mudd-Scripps Colleges,22.03
+Saint Peters University,20.88
+Xavier University,16.31
+William Jewell College,28.685000000000002
+Midland University,30.09
+Oklahoma Baptist University,24.82
+Franklin & Marshall College,20.63
+Villanova University,20.595
+Albion College,25.29
+Iona College,22.240000000000002
+California Institute of Technology,26.299999999999997
+Florida Southern College,23.23
+Bryant University,24.61
+Connecticut College,23.98
+Truman State University,27.55
+University of North Dakota,24.65
+Trinity College (Connecticut),27.25
 McGill University,18.080000000000002
 UCLA,15.13
-Bowdoin College,26.86285714285714
-Virginia Military Institute,27.059166666666666
-California Lutheran University,25.00375
-Carthage College,24.848571428571425
-Catholic University,24.657
-Trinity University (Texas),24.51846153846154
-Colorado School of Mines,25.490833333333338
-Ithaca College,24.0125
-Fresno Pacific University,24.333999999999996
-The College of New Jersey,26.240769230769224
-Rose-Hulman Institute of Technology,27.025833333333328
-American University,25.2725
-Oklahoma Christian University,23.211999999999996
-Concordia University,25.762
-Loyola University New Orleans,24.505714285714284
-Birmingham Southern College,24.495
-McKendree University,26.01631578947368
-Rensselaer Polytechnic Institute,26.8475
-Bentley University,25.883333333333336
-Bellarmine University,27.084285714285716
-University of Evansville,24.279999999999998
-University of Saint Thomas,25.409230769230767
-Wingate University,24.232499999999998
-Bloomsburg University,25.794999999999998
-Colgate University,25.155
-West Chester University,22.097272727272728
-Bates College,27.75153846153846
-U.S. Merchant Marine Academy,24.659
-John Carroll University,25.993333333333332
-Canisius College,26.75090909090909
-Monmouth University,26.385
+Bowdoin College,26.67
+Virginia Military Institute,27.08
+California Lutheran University,27.53
+Carthage College,25.76
+Catholic University,24.759999999999998
+Trinity University (Texas),26.4
+Colorado School of Mines,26.705
+Ithaca College,25.985
+Fresno Pacific University,23.235
+The College of New Jersey,25.71
+Rose-Hulman Institute of Technology,29.715
+American University,26.235
+Oklahoma Christian University,22.295
+Concordia University,27.005000000000003
+Loyola University New Orleans,25.17
+Birmingham Southern College,25.855
+McKendree University,25.99
+Rensselaer Polytechnic Institute,30.384999999999998
+Bentley University,24.689999999999998
+Bellarmine University,28.04
+University of Evansville,24.244999999999997
+University of Saint Thomas,27.2
+Wingate University,25.05
+Bloomsburg University,25.85
+Colgate University,24.46
+West Chester University,19.96
+Bates College,28.27
+U.S. Merchant Marine Academy,25.189999999999998
+John Carroll University,29.53
+Canisius College,26.92
+Monmouth University,27.34
 College of Idaho,24.46
-St. Olaf College,20.34
-University of the South (Sewanee),23.1725
-Brandeis University,25.857999999999997
+St. Olaf College,18.1
+University of the South (Sewanee),20.009999999999998
+Brandeis University,27.29
 University of Wisconsin-Oshkosh,18.17
-Fairfield University,26.825833333333335
+Fairfield University,27.085
 University of Regina,18.825
-Albright College,27.87666666666667
-University of California-Santa Cruz,25.006
-Cumberlands,26.0525
-DePauw University,25.992631578947368
-State University of New York at Geneseo,28.595833333333335
-Wabash College,26.065
-Limestone College,26.764000000000003
-Carson-Newman University,25.433333333333334
-Drew University,26.46666666666667
-University of Findlay,22.793333333333337
+Albright College,29.52
+University of California-Santa Cruz,23.01
+Cumberlands,27.325
+DePauw University,24.54
+State University of New York at Geneseo,30.560000000000002
+Wabash College,25.875
+Limestone College,26.14
+Carson-Newman University,25.689999999999998
+Drew University,30.29
+University of Findlay,21.375
 William Peace University,22.08
-Rowan University,26.510000000000005
+Rowan University,26.490000000000002
 University of Victoria,19.13
-South Dakota State University,25.179333333333332
+South Dakota State University,26.18
 Saint Vincent College,19.44
 Asbury University,19.19
-Middlebury College,25.649999999999995
-Ashland University,26.30333333333333
-Mount Saint Mary's University (MD),26.701249999999998
-Henderson State University,28.26181818181818
-Calvin College,27.6675
-Stevens Institute,27.057142857142857
+Middlebury College,24.985
+Ashland University,28.23
+Mount Saint Mary's University (MD),26.939999999999998
+Henderson State University,28.35
+Calvin College,29.565
+Stevens Institute,28.81
 Malone University,24.91
-University of Maine,28.184285714285718
-Delta State University,26.03
-University of Wisconsin-La Crosse,29.860000000000003
-Linfield College,25.44
-Illinois Institute of Technology,26.150000000000002
+University of Maine,27.215
+Delta State University,25.35
+University of Wisconsin-La Crosse,30.48
+Linfield College,27.96
+Illinois Institute of Technology,28.85
 Mars Hill University,25.634999999999998
-Washington College (Maryland),24.036
-Grove City College,25.75666666666667
-Barton College,25.153750000000002
-Iowa Central Community College,24.583333333333332
+Washington College (Maryland),24.35
+Grove City College,22.35
+Barton College,25.605
+Iowa Central Community College,23.91
 Illinois College,20.43
 Wilkes University,20.43
-Edinboro University,26.8575
+Edinboro University,27.08
 Golden West College,20.36
-Clarion University,28.360000000000003
-Occidental College,29.3225
+Clarion University,30.314999999999998
+Occidental College,31.590000000000003
 Pacific Lutheran University,26.07
-Maryville University,26.52
-Saginaw Valley State University,25.781249999999996
-Grinnell College,26.152500000000003
-Westminster College,28.796000000000003
-Wheaton College (Illinois),30.075714285714287
-Southern Connecticut State University,24.573999999999998
-Kalamazoo College,25.316666666666666
+Maryville University,26.54
+Saginaw Valley State University,26.0
+Grinnell College,26.310000000000002
+Westminster College,29.05
+Wheaton College (Illinois),31.72
+Southern Connecticut State University,25.61
+Kalamazoo College,22.48
 University of Missouri-St. Louis,21.21
-University of Mary Washington,29.794166666666666
+University of Mary Washington,29.22
 Lindenwood University (Belleville) ,21.67
 Keene State College,21.49
 Biola University,25.225
-Le Moyne College,28.403333333333336
-Monmouth College,28.176666666666666
-Morningside College,28.344
-Whitworth University,28.0375
-Manhattan College,27.933333333333334
+Le Moyne College,30.8
+Monmouth College,30.59
+Morningside College,29.31
+Whitworth University,28.275
+Manhattan College,29.83
 University of Ottawa,22.34
-Babson College,26.75
-Whitman College,27.97666666666667
-Colorado College,26.62
-Case Western Reserve University,28.019285714285722
+Babson College,25.56
+Whitman College,27.22
+Colorado College,25.39
+Case Western Reserve University,27.955
 Monroe Community College,22.45
-Berry College,25.8025
-Salisbury University,27.21333333333334
+Berry College,26.08
+Salisbury University,27.44
 College of Wooster,22.32
-Florida Institute of Technology,28.605555555555554
-Niagara University,24.439999999999998
+Florida Institute of Technology,27.6
+Niagara University,24.98
 ,22.81
-Wesleyan University,29.845000000000002
-Southwestern University,28.279999999999998
-Ohio Northern University,29.456666666666663
+Wesleyan University,31.119999999999997
+Southwestern University,27.73
+Ohio Northern University,31.49
 Messiah College,28.405
-Shippensburg University,28.09888888888889
+Shippensburg University,27.32
 Ohio Wesleyan University,26.025
-University of Wisconsin-Whitewater,27.9
+University of Wisconsin-Whitewater,25.73
 Union College (New York),28.89
-Willamette University,30.25333333333333
-University of Rochester,28.7525
+Willamette University,33.22
+University of Rochester,28.75
 Vassar College,27.625
 Point University,24.18
-University of Mount Union,26.616666666666664
+University of Mount Union,24.43
 Baldwin-Wallace College,24.61
 Pace University,24.895000000000003
-Ball State University,28.150000000000002
-Carleton College,29.85
-University of Wisconsin-Stevens Point,30.2175
+Ball State University,27.310000000000002
+Carleton College,30.5
+University of Wisconsin-Stevens Point,31.189999999999998
 Davis and Elkins College,24.84
 Lewis and Clark College,29.5
 Saint Marys College of Maryland,24.97
 Notre Dame (Ohio) College,25.02
-Colby College,30.700000000000003
-Oberlin College,27.51
+Colby College,32.0
+Oberlin College,28.06
 Penn State Behrend College,25.26
-Centre College,28.634999999999998
+Centre College,28.55
 Susquehanna University,25.31
-Lake Forest College,28.885
-Franklin College,27.165000000000003
-Worcester Polytechnic Institute,28.263333333333332
+Lake Forest College,28.490000000000002
+Franklin College,26.245
+Worcester Polytechnic Institute,27.85
 State University of New York at New Paltz,25.1
-University of Redlands,27.345000000000002
-Southwestern Oregon Community College,29.373333333333335
-Barton County Community College,28.626666666666665
+State Maritime University of New York,25.66
+University of Redlands,27.33
+Southwestern Oregon Community College,28.54
+Barton County Community College,29.64
 "University of Nebraska, Lincoln",25.72
-Adelphi University,30.706
+Adelphi University,30.24
 Allegheny College,29.11
-Lafayette College,29.015
-Catawba College,29.58
-Valparaiso University,29.356666666666666
+Lafayette College,27.615000000000002
+Catawba College,30.05
+Valparaiso University,30.67
 St Norbert College,27.86
-Alfred University,30.936666666666667
+Alfred University,32.32
 Nebraska Wesleyan University,28.71
 Ursinus College,28.060000000000002
 Springfield College,27.11
@@ -343,21 +344,21 @@ University of Puget Sound,27.63
 Montclair State University,27.2
 Hamilton College,28.655
 Lincoln College,27.79
-Roger Williams University,28.606
-College of Holy Cross,30.7575
-Misericordia University,30.89
+Roger Williams University,28.29
+College of Holy Cross,30.5
+Misericordia University,32.02
 Hendrix College,29.880000000000003
 Lindsey Wilson College,28.1
 Randolph-Macon College,28.33
 Transylvania University,28.49
-Saint Johns University (Minnesota),31.5075
-Ouachita Baptist University,29.310000000000002
+Saint Johns University (Minnesota),31.92
+Ouachita Baptist University,28.78
 Rochester Institute of Technology,30.314999999999998
 University of Rhode Island,29.31
 University of La Verne,29.5
 Urbana University,29.25
 Widener University,29.45
-Indiana University of Pennsylvania,30.63
+Indiana University of Pennsylvania,30.52
 Saint Ambrose University,29.7
 University of Pittsburgh-Bradford,29.9
 Pennsylvania State University - Altoona,29.91
