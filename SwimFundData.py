@@ -56,9 +56,13 @@ scholarships = readDB("SwimFundingData.csv", parseSchool)
 def parseIndexes(l):
     return l
 
+def parseTeamRanks(l):
+    return l
+
 indexes = readDB("mensIndex.csv", parseIndexes)
 #print(indexes)
 
+#rankings = readDB("TeamRankData.csv", parseTeamRanks)
 def combine(l,m):
     database = []
     for s1 in l:
@@ -67,4 +71,14 @@ def combine(l,m):
                 database.append([s1[0],s1[1],s1[2],s2[1]])
     return database
 
-print(combine(scholarships,indexes))
+data = combine(scholarships,rankings)
+
+def export():
+    final = data
+    csvfile = "./Final.csv"
+
+    with open(csvfile, "w") as output:
+        writer = csv.writer(output, lineterminator='\n')
+        writer.writerows(final)
+              
+export()
