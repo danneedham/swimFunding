@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import csv
 
+"""
 import urllib
 r = urllib.urlopen("https://www.collegeswimming.com/recruiting/rankings/2018/F/")
 soup = BeautifulSoup(r)
@@ -12,6 +13,7 @@ letters = soup.find_all("div", class_="ec_statements")
 #    print(link.get('href'))
 
 print(soup)
+"""
 
 def readDB(database, parser):
     "Reads in csv file"
@@ -48,5 +50,21 @@ Example output by USA Swimming database:
 
     return l
 
-test = readDB("TopTimes18.csv", parseTopTimes)
-#print(test)
+scholarships = readDB("SwimFundingData.csv", parseSchool)
+#print(scholarships)
+
+def parseIndexes(l):
+    return l
+
+indexes = readDB("mensIndex.csv", parseIndexes)
+#print(indexes)
+
+def combine(l,m):
+    database = []
+    for s1 in l:
+        for s2 in m:
+            if s1[0] == s2[0]:
+                database.append([s1[0],s1[1],s1[2],s2[1]])
+    return database
+
+print(combine(scholarships,indexes))
