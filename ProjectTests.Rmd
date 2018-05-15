@@ -11,10 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 Final <- read.csv("./Final.csv")
-#Final[,3] <- as.numeric(Final[,3])
+#Final[,3] <- as.numeric(as.character(Final[,3]))
 Final[,6] <- as.numeric(Final[,6])
-typeof(Final$Scholarship)
-
+Final$Scholarship
 head(Final)
 ```
 
