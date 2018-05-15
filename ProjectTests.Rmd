@@ -1,0 +1,51 @@
+---
+title: "ProjectTests"
+author: "Dan Needham"
+date: "5/8/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+Final <- read.csv("./Final.csv")
+#Final[,3] <- as.numeric(Final[,3])
+Final[,6] <- as.numeric(Final[,6])
+typeof(Final$Scholarship)
+
+head(Final)
+```
+
+```{r}
+plot(Index ~ Scholarship, data = Final, main = "Scholarship vs. Index")
+```
+
+```{r}
+model <- lm(Index ~ Scholarship, data = Final)
+model2 <- lm(Index ~ Scholarship + Sat75 + Admissions, data = Final)
+model3 <- lm(Index ~ Scholarship + Sat75, data = Final)
+summary(model)
+summary(model2)
+summary(model3)
+```
+
+```{r}
+#index <- 1:nrow(Final)
+#slopes.boot <-matrix(NA, nrow = 10000)
+#for(i in 1:10000) {
+#  index.boot <-sample(index, replace = TRUE)
+#  Final.boot <- Final[index.boot, ]
+#  fit.boot <- lm(Index~Scholarship, data = Final.boot)
+#  slopes.boot[i] <- coefficients(fit.boot)[2]
+#}
+
+#quantile(slopes.boot, c(0.025, 0.975), na.rm = TRUE)
+```
+
+```{r}
+plot(Index ~ Scholarship, data = Final, main = "Scholarship vs. Index")
+```
+
+

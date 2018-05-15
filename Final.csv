@@ -1,0 +1,184 @@
+School,Division,Scholarship,Index,Sat75,Admissions
+Canisius College,NCAA I,538,26.92,600,0.87
+University of California-San Diego,NCAA II,551,14.41,770,0.34
+Asbury University,NAIA ,623,19.19,605,0.57
+Bloomsburg University,NCAA II,"1,467",25.85,540,0.88
+Shippensburg University,NCAA II,"2,170",27.32,550,0.89
+West Chester University,NCAA II,"2,529",19.96,580,0.59
+Clarion University,NCAA II,"2,706",30.315,510,0.96
+Colorado Mesa University,NCAA II,"3,041",22.63,540,0.83
+Edinboro University,NCAA II,"3,070",27.08,520,0.96
+Truman State University,NCAA II,"3,105",27.55,680,0.79
+Lindenwood University,NCAA II,"3,506",12.66,560,0.55
+Alderson Broaddus University,NCAA II,"3,671",33.87,530,0.54
+Southern Connecticut State University,NCAA II,"3,689",25.61,500,0.65
+Saint Cloud State University,NCAA II,"3,950",29.13,585,0.86
+College of Idaho,NAIA ,"3,993",24.46,,0.9
+Delta State University,NCAA II,"4,029",25.35,560,0.87
+Saginaw Valley State University,NCAA II,"4,070",26,,0.76
+Henderson State University,NCAA II,"4,125",28.35,525,0.63
+Saint Ambrose University,NAIA ,"4,217",29.7,,0.73
+Morningside College,NAIA ,"4,811",29.31,,0.56
+Tiffin University,NCAA II,"4,856",10.79,,0.93
+Mars Hill University,NCAA II,"5,117",25.635,500,0.61
+Indiana University of Pennsylvania,NCAA II,"5,130",30.52,530,0.88
+Ashland University,NCAA II,"5,197",28.23,540,0.77
+Colorado School of Mines,NCAA II,"5,429",26.705,730,0.38
+University of Tampa,NCAA II,"5,455",22.63,590,0.51
+West Virginia Wesleyan College,NCAA II,"5,693",30.3,550,0.77
+Emmanuel College,NCAA II,"5,710",17.715,530,0.34
+Marist College,NCAA I,"5,890",21.28,,0.45
+Limestone College,NCAA II,"5,897",26.14,510,0.46
+Bentley University,NCAA II,"5,907",24.69,690,0.42
+Barton College,NCAA II,"6,204",25.605,540,0.42
+Grand Valley State University,NCAA II,"6,517",19.54,630,0.81
+University of Findlay,NCAA II,"6,716",21.375,480,0.76
+Ouachita Baptist University,NCAA II,"6,797",28.78,630,0.68
+South Dakota State University,NCAA I,"6,964",26.18,600,0.92
+McKendree University,NCAA II,"7,045",25.99,530,0.63
+Keiser University,NAIA ,"7,079",25.815,,.-
+Carson-Newman University,NCAA II,"7,092",25.69,550,0.59
+Davidson College,NCAA I,"7,192",20.935,720,0.22
+Le Moyne College,NCAA II,"7,214",30.8,590,0.62
+Bellarmine University,NCAA II,"7,282",28.04,610,0.84
+Eastern Illinois University,NCAA I,"7,619",21.33,,0.5
+Oklahoma Christian University,NCAA II,"7,630",22.295,620,0.59
+Catawba College,NCAA II,"7,724",30.05,560,0.32
+Saint Leo University,NCAA II,"7,926",30.93,,0.73
+Lenoir-Rhyne University,NCAA II,"7,946",19.88,550,0.84
+Florida Atlantic University,NCAA I,"8,004",19.38,570,0.68
+Lindsey Wilson College,NAIA ,"8,029",28.1,,.
+Malone University,NCAA II,"8,035",24.91,550,0.69
+Rollins College,NCAA II,"8,036",26.995,,0.6
+Point University,NAIA ,"8,110",24.18,500,0.49
+Olivet Nazarene University,NAIA ,"8,120",14.11,570,0.77
+Valparaiso University,NCAA I,"8,127",30.67,630,0.82
+Fresno Pacific University,NCAA II,"8,215",23.235,547,0.63
+Wingate University,NCAA II,"8,302",25.05,570,0.7
+University of California-Santa Barbara,NCAA I,"8,696",9.08,700,0.33
+Gannon University,NCAA II,"8,697",21.74,570,0.76
+Western Illinois University,NCAA I,"8,742",29.085,,0.6
+Loyola University New Orleans,NAIA ,"9,087",25.17,610,0.9
+Biola University,NCAA I,"9,103",25.225,620,0.7
+Lewis University,NCAA II,"9,108",23.595,600,0.62
+University of South Dakota,NCAA I,"9,192",25.6,610,0.74
+University of Indianapolis,NCAA II,"9,291",19.08,560,0.73
+Urbana University,NCAA II,"9,397",29.25,548,0.91
+Brigham Young University,NCAA I,"9,419",14.665,680,0.48
+Grand Canyon University,NCAA I,"9,455",15.285,,0.43
+Wayne State University,NCAA II,"9,481",24.43,,0.8
+Wright State University,NCAA I,"9,719",17.85,600,0.96
+Adelphi University,NCAA II,"9,791",30.24,620,0.72
+Northern Michigan University,NCAA II,"9,820",24.13,580,0.7
+William Jewell College,NCAA II,"9,881",28.685,620,0.49
+University of Wisconsin-Green Bay,NCAA I,"9,971",20.38,,0.85
+Rider University,NCAA I,"10,042",19.375,560,0.69
+Oklahoma Baptist University,NCAA II,"10,095",24.82,560,0.61
+George Mason University,NCAA I,"10,215",19.44,630,0.69
+Missouri State University,NCAA I,"10,241",12.78,613,0.86
+Cleveland State University,NCAA I,"10,351",17.6,580,0.64
+Georgetown University,NCAA I,"10,488",12.64,750,0.17
+Virginia Military Institute,NCAA I,"10,634",27.08,610,0.53
+Florida Southern College,NCAA II,"10,662",23.23,610,0.45
+New Jersey Institute of Technology,NCAA I,"11,124",26.4,680,0.61
+Florida Institute of Technology,NCAA II,"11,142",27.6,670,0.57
+University of Wisconsin-Milwaukee,NCAA I,"11,163",20.83,,0.86
+Queens University of Charlotte,NCAA II,"11,428",18.31,570,0.67
+Drury University,NCAA II,"11,652",18.15,,0.84
+University of Illinois at Chicago,NCAA I,"11,787",21.07,670,0.77
+Iona College,NCAA I,"11,878",22.24,550,0.91
+University of California-Berkeley,NCAA I,"12,109",4.06,770,0.17
+California Baptist University,NCAA II,"12,397",17.02,540,0.65
+Bryant University,NCAA I,"12,671",24.61,,0.72
+Midland University,NAIA ,"12,739",30.09,510,0.61
+University of Wyoming,NCAA I,"13,348",10.92,620,0.96
+Oakland University,NCAA I,"13,355",13.045,590,0.8
+Manhattan College,NCAA I,"13,565",29.83,610,0.67
+Towson University,NCAA I,"13,819",19.93,590,0.73
+Niagara University,NCAA I,"13,856",24.98,570,0.85
+Fairfield University,NCAA I,"13,864",27.085,,0.65
+Nova Southeastern University,NCAA II,"14,059",15.385,620,0.59
+University of Bridgeport,NCAA II,"14,800",22.055,500,0.52
+La Salle University,NCAA I,"14,981",20.045,550,0.75
+Eastern Michigan University,NCAA I,"15,125",13.985,580,0.75
+Xavier University,NCAA I,"15,221",16.31,590,0.72
+University of Minnesota,NCAA I,"15,272",10.465,740,0.45
+Southern Illinois University,NCAA I,"15,596",19.37,600,0.81
+University of Maine,NCAA I,"15,622",27.215,610,0.91
+Saint Louis University,NCAA I,"15,738",23.72,680,0.63
+Bucknell University,NCAA I,"15,843",18.51,710,0.25
+Gardner-Webb University,NCAA I,"16,049",14.47,550,0.53
+Monmouth University,NCAA I,"16,098",27.34,550,0.74
+Lehigh University,NCAA I,"16,264",18.04,740,0.3
+Ohio State University,NCAA I,"16,338",10.3,720,0.49
+University of Cincinnati,NCAA I,"16,373",11.165,660,0.86
+Drexel University,NCAA I,"16,542",16.02,680,0.75
+Lafayette College,NCAA I,"16,560",27.615,710,0.3
+Seattle University,NCAA I,"16,577",21.91,630,0.73
+University of Evansville,NCAA I,"16,746",24.245,630,0.7
+Savannah College of Art and Design,NAIA ,"16,793",23.64,580,0.7
+Howard University,NCAA I,"17,166",22.56,610,0.49
+University of Iowa,NCAA I,"17,186",10.89,690,0.81
+University of Rhode Island,NCAA I,"17,335",29.31,590,0.74
+University at Buffalo,NCAA I,"17,932",13.71,650,0.6
+Ball State University,NCAA I,"18,257",27.31,590,0.61
+University of Missouri,NCAA I,"18,523",3.35,650,0.78
+East Carolina University,NCAA I,"18,523",13.325,570,0.69
+George Washington University,NCAA I,"18,606",16.915,700,0.46
+Old Dominion University,NCAA I,"18,876",25.74,570,0.83
+North Carolina State University,NCAA I,"18,924",3.535,680,0.5
+Florida State University,NCAA I,"19,886",8.95,640,0.56
+University of Louisville,NCAA I,"20,231",4.71,620,0.72
+Colgate University,NCAA I,"20,662",24.46,730,0.27
+Villanova University,NCAA I,"20,665",20.595,710,0.48
+American University,NCAA I,"20,666",26.235,650,0.35
+Seton Hall University,NCAA I,"21,037",15.53,620,0.76
+University of Georgia,NCAA I,"21,062",6.82,670,0.53
+Michigan State University,NCAA I,"21,157",12.495,680,0.66
+West Virginia University,NCAA I,"21,296",12.21,580,0.86
+University of Delaware,NCAA I,"21,466",22.12,660,0.67
+University of South Carolina,NCAA I,"22,165",10.71,650,0.65
+Providence College,NCAA I,"22,353",26.06,,0.57
+University of Kentucky,NCAA I,"22,374",6.085,630,0.89
+Pennsylvania State University,NCAA I,"22,427",12.715,670,0.51
+Arizona State University,NCAA I,"22,461",10.015,640,0.83
+Purdue University,NCAA I,"22,724",11.42,700,0.59
+University of Texas,NCAA I,"22,996",2.715,720,0.39
+Boston University,NCAA I,"23,713",20.91,730,0.33
+University of Utah,NCAA I,"23,836",10.895,660,0.81
+Georgia Institute of Technology,NCAA I,"24,063",7.94,770,0.32
+Fordham University,NCAA I,"24,226",23.58,680,0.48
+University of Alabama,NCAA I,"24,285",8.98,610,0.54
+University of Virginia,NCAA I,"24,887",7.51,740,0.3
+University of Denver,NCAA I,"25,178",14.135,660,0.73
+University of Arizona,NCAA I,"25,479",9.08,,0.76
+University of Connecticut,NCAA I,"25,768",16.795,690,0.53
+University of Michigan,NCAA I,"27,238",6.27,770,0.26
+Stanford University,NCAA I,"27,653",2.65,800,0.50%
+University of Tennessee,NCAA I,"27,756",9.85,630,0.76
+University of Pittsburgh,NCAA I,"27,864",14.59,690,0.54
+University of Southern California,NCAA I,"28,744",3.98,770,0.18
+Boston College,NCAA I,"29,467",21.33,750,0.29
+Duke University,NCAA I,"29,597",7.295,790,0.11
+Louisiana State University,NCAA I,"32,146",10.565,640,0.77
+University of Notre Dame,NCAA I,"32,342",3.645,770,0.2
+Auburn University,NCAA I,"32,519",5.74,650,0.78
+Texas Christian University,NCAA I,"38,438",11.18,650,0.43
+Northwestern University,NCAA I,"43,454",7.935,800,0.13
+Southern Methodist University,NCAA I,"45,685",13.125,720,0.49
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
+, ,,22.81,,.
